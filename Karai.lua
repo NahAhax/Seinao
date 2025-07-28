@@ -1,6 +1,6 @@
 -- // Hanzo hub "FOLLOW 7A27677 ON ROBLOX"
-local IceHub = loadstring(game:HttpGet("https://pastebin.com/raw/1KXhRdNS"))()
-
+local IceHub = loadstring(game:HttpGet("https://pastebin.com/raw/1KXhRdNS"))()l
+local MainUI = IceHub.CreateMain()
 -- // Tabs
 local Tab_House = MainUI:NewTab("House")
 local House = Tab_House:NewSection("House")
@@ -38,8 +38,8 @@ local Others = Tab_Others:NewSection("Others")
 local Tab_Teleportes = MainUI:NewTab("Teleport")
 local Teleportes = Tab_Teleportes:NewSection("Teleport")
 
-local Tab_Misc = MainUI:NewTab("Misc")
-local Misc = Tab_Misc:NewSection("Misc")
+local Tab_Misc = Mai
+local Misc = Tab_Misc:NewS
 
 local Tab_Kill = MainUI:NewTab("Kill")
 local Kill = Tab_Kill:NewSection("Kill")

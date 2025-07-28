@@ -1,6 +1,7 @@
 -- // Hanzo hub "FOLLOW 7A27677 ON ROBLOX"
-local IceHub = loadstring(game:HttpGet("https://pastebin.com/raw/1KXhRdNS"))()l
+local IceHub = loadstring(game:HttpGet("https://pastebin.com/raw/1KXhRdNS"))()
 local MainUI = IceHub.CreateMain()
+
 -- // Tabs
 local Tab_House = MainUI:NewTab("House")
 local House = Tab_House:NewSection("House")
